@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514330635774",
+    "project_id": "codersguidedune",
+    "storage_bucket": "codersguidedune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514330635774:android:e5c2ecf3823d2787c864af",
+        "android_client_info": {
+          "package_name": "com.example.coders_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLDvG_wagTrnyVN2k5IziAeCy1AJd66Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+name: coders_guide
+description: "A new Flutter project."
+publish_to: 'none'  # Prevents accidental publication to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.0
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  animated_text_kit: ^4.2.2
+  url_launcher: ^6.0.0
+  http: ^1.2.1
+  cloud_firestore: ^4.16.1
+  webview_flutter: ^4.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true  # Enables Material Icons
+
+  assets:  # Declare asset files
+    - assets/app_back.png
+    - assets/backapp.png
+    - assets/exp.png
